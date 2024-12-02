@@ -1,0 +1,13 @@
+{
+  "outbounds": [
+    {
+      "type": "wireguard",
+      "tag": "WARP § 0",
+      "server": "162.159.192.76",  // This will be updated dynamically
+      "server_port": 854,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "81wR",
+      "mtu": 1330
+    }
+  ]
+}
